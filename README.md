@@ -2,4 +2,4 @@
 A laravel react ecommerce app
 
 
-Installation
+<h1>Installation</h1>

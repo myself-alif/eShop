@@ -9,7 +9,7 @@ A laravel react ecommerce app
 <li>write the command "npm install"</li>
 <li>cd eshop-backend</li>
 <li>write the command "npm install"</li>
-<li>write the command "composer install"<li>
+<li>write the command "composer install"</li>
 <li>rename .env.example to .env</li>
 <li>in the .env file set DB_DATABASE=eshop_db</li>
 <li>in the .env file paste the following code without brackets, This code enables google sign in
